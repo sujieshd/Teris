@@ -4,6 +4,13 @@ A simple Tetris-style game built with Python and `tkinter`.
 
 This repo also includes a Galaga-style arcade shooter.
 
+## Games Included
+
+| Game | File | Run |
+|---|---|---|
+| Teris (Tetris-style) | `Teris.py` | `python Teris.py` |
+| Galaga-style shooter | `Galaga.py` | `python Galaga.py` |
+
 ## Requirements
 
 - Python 3.x
